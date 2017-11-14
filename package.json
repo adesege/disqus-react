@@ -7,10 +7,6 @@
     "url": "https://github.com/ryanvalentin/disqus-react.git"
   },
   "main": "lib/index.js",
-  "files": [
-    "dist",
-    "lib"
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --config webpack.examples.config.js --hot --progress --colors",
